@@ -10,58 +10,52 @@
 <p align="left"> 
 
   <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+    <img alt="JAVA" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/java_15498.png">
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="SQL" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/Sql-runner_35757.png">
   </a> 
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+    <img alt="CSS" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/file_type_css_icon_130661.png">
   </a> 
   &emsp;
   <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
+    <img alt="HTML" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/file_type_html_icon_130541.png">
   </a> 
   &emsp;
   <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
+    <img alt="Kotlin" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/file_type_kotlin_icon_130487.png">
+  </a> 
   &emsp;
   <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
+    <img alt="Python" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/file_type_python_icon_130221.png">
+  </a> 
   &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
+  <a> 
+    <img alt="git" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/git_original_wordmark_logo_icon_146510.png">
+  </a> 
   &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
+  <a> 
+    <img alt="JavaScript" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/javascript_icon_130900.png">
+  </a> 
   &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+  <a> 
+    <img alt="MySQL" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/mysql_original_wordmark_logo_icon_146417.png">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Oracle" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/oracle_logo_icon_168918.png">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="PostgreSQL" src="https://github.com/AdriMF99/assets/blob/main/iconos%20github/postgre_brands_icon_256592.png">
   </a>
+</p>
+
+## MOST USED LANGUAGES
+
+<p align="left">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrimf99&theme=radical">
 </p>
