@@ -58,6 +58,4 @@
 
 <p align="left">
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrimf99&theme=radical">
-  &emsp;
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api?username=adrimf99&hide=contribs,prs&hide_rank=true&theme=radical">
 </p>
